@@ -9,7 +9,7 @@ tags = ["me"]
 summary = "A test post"
 
 [header]
-image = "https://placem.at/things?h=400&w=600"
+image = "grapes.jpeg"
 caption = "Image credit: [**placemat**](https://placem.at)"
 
 [[gallery_item]]
